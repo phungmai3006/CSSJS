@@ -116,7 +116,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://swanpark.info/' target='_blank'><img src='https://1.bp.blogspot.com/-iwv37BkJysM/XBewyzBD9-I/AAAAAAAAADU/Sq1T89jOyjAW_PD_LXCxgp5AVYij9wUhQCLcBGAs/s1600/hotline-cdt-hausbelo.png' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://swanpark.info/' target='_blank'><img src='https://1.bp.blogspot.com/-iwv37BkJysM/XBewyzBD9-I/AAAAAAAAADU/Sq1T89jOyjAW_PD_LXCxgp5AVYij9wUhQCLcBGAs/s1600/hotline-cdt-hausbelo.png' width='500px'/><br/>Bán căn hộ HausBelo Quận 9 đợt 1 </a>. LH: 0903972795 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
